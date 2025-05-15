@@ -2,6 +2,8 @@
 
 O BalancePro é um sistema SaaS (Software as a Service) projetado especificamente para atender as necessidades de contadores, gestores financeiros e empresários. Ele oferece uma plataforma abrangente que facilita a gestão e a análise de balanços patrimoniais de forma eficiente e segura.
 
+![Gemini_Generated_Image_mi3fl1mi3fl1mi3f](https://github.com/user-attachments/assets/2b77fef4-88d6-486c-a90e-7e5a4bad60c7)
+
 | | |
 |-|-|
 | ![](https://github.com/user-attachments/assets/026b6d21-c4dc-4666-91d8-a8b9eb376035) | ![](https://github.com/user-attachments/assets/f0d0a1f6-1cba-4b57-a9b8-1a8dbd46096c) 
